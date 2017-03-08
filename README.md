@@ -1,6 +1,6 @@
 # Gullblekka
 
-A kind og homepage for the annual award ceremony for student magazines at NTNU.
+A kind of homepage for the annual award ceremony for student magazines at NTNU.
 
 ### Get started
 
