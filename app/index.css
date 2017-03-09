@@ -14,3 +14,12 @@ img:hover {
   transform: scale(1.02);
   box-shadow: 8px 8px 15px #888;
 }
+
+.jumbotron {
+  background-color: white;
+  font-family: 'Bitter'
+}
+
+.jumbotron h1 {
+  color: goldenrod;
+}
